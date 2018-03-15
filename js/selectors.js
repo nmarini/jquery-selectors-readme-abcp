@@ -8,5 +8,5 @@ function lastImageSelector() {
 }
 
 function ninjaBabuSelector() {
-  
+  return $(`image:first`)
 }
